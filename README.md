@@ -71,8 +71,7 @@ Full Stack Developer | Software Engineer
 <div align="center">
 <h2> 🔗 Connect With Me </h2>
   
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](in/danya-aljammal-74baaa392/
-)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/danya-aljammal-74baaa392))
 
 <!--[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aabdelaal.dev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201090243709)
