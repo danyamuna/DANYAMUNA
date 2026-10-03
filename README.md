@@ -59,7 +59,7 @@ Full Stack Developer | Software Engineer
 
 
 <p align="center">
-  <img src="image.jpg" width="55%"/>
+  <img src="image.jpg" width="22%"/>
 </p>
 
 ---
